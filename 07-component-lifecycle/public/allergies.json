@@ -1,0 +1,22 @@
+ [
+    {
+        "value" : "rawfish",
+        "display": "Raw Fish"
+    },
+    {
+        "value" : "salad",
+        "display": "Salad"
+    },
+    {
+        "value" : "cuttlefish",
+        "display": "Cuttlefish"
+    },
+    {
+        "value" : "peanut",
+        "display": "Peanut"
+    },
+    {
+        "value" : "soy",
+        "display": "Soy"
+    }
+]
