@@ -1,0 +1,20 @@
+[
+    {
+                "studentNumber" : 1,
+                "firstNAme"     : "Apple",
+                "lastName"      : "Ang",
+                "graduate"      : false
+    },
+    {
+                "studentNumber" : 1,
+                "firstNAme"     : "Banana",
+                "lastName"      : "Bong",
+                "graduate"      : false
+    },
+    {
+                "studentNumber" : 1,
+                "firstNAme"     : "Cherry",
+                "lastName"      : "Chen",
+                "graduate"      : false
+    },
+]
